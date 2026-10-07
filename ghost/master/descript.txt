@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+craftman,Hidekaz Himaruya
+craftmanw,日丸屋秀和
+craftmanurl,http://www.geocities.jp/himaruya/
+
+name,シーランド君とラトビア君
+type,ghost
+
+sakura.name,シー君
+kero.name,ラトちゃん
+
+icon,post.ico
+shiori,satori.dll

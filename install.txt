@@ -1,0 +1,8 @@
+
+charset, Shift_JIS
+type,ghost
+name,繧ｷ繝ｼ繝ｩ繝ｳ繝牙菅縺ｨ繝ｩ繝医ン繧｢縺｡繧�繧�
+directory,sealat
+
+refresh,1
+refreshundeletemask,satori_savedata.sat
